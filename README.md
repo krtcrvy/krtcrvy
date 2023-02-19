@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kurt Carvey Cadenas! 💻🚀</h1>
 <h3 align="center">Building the web, one line of code at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krtcrvy&label=Profile%20views&color=0e75b6&style=flat" alt="krtcrvy" /> </p>
-
 - 🌱 I’m currently learning: **React, Express JS, Laravel, and TensorFlow**
 
 - 📫 How to reach me: **kurtcadenas2001@gmail.com**
