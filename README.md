@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kurt Carvey Cadenas! 💻🚀</h1>
 <h3 align="center">Building the web, one line of code at a time.</h3>
 
-- 🌱 I’m currently learning: **React, Vue, Express JS, Laravel, and TensorFlow**
+- 🌱 I’m currently learning: **Laravel, React, Vue, Express JS, and TensorFlow**
 
 - 📫 How to reach me: **kurtcarveycadenas2001@gmail.com**
 
