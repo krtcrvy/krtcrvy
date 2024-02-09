@@ -7,7 +7,7 @@ Full-Stack Developer
 Despite being a student, I already consider myself a web development trendsetter - I'm always on the lookout for the latest technologies and frameworks, eager to learn and experiment with them. In fact, my passion for web development has become so contagious that my classmates have started to follow my lead, and I've become somewhat of a leader in our class. They say imitation is the sincerest form of flattery, but I just think they're onto something - web development is where it's at!
 
 * 🌍  I'm based in Philippines
-* ✉️  You can contact me at [kurtcarveycadenas2001@gmail.com](mailto:kurtcarveycadenas2001@gmail.com)
+* ✉️  You can contact me at [kurtcarvey.m.cadenas@gmail.com](mailto:[kurtcarvey.m.cadenas@gmail.com)
 * 🧠  I'm learning React, NextJS, ExpressJS, Laravel, ASP.NET, PostgreSQL, MongoDB, Firebase, and Machine Learning
 
 ### Skills
