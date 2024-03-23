@@ -8,7 +8,7 @@ Despite being a student, I already consider myself a web development trendsetter
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [kurtcarvey.m.cadenas@gmail.com](mailto:[kurtcarvey.m.cadenas@gmail.com)
-* 🧠  I'm learning React, NextJS, ExpressJS, Laravel, ASP.NET, PostgreSQL, MongoDB, Firebase, and Machine Learning
+* 🧠  I'm learning React, NextJS, ExpressJS, Laravel, PostgreSQL, MySQL, MongoDB, Firebase, and Machine Learning
 
 ### Skills
 
