@@ -5,4 +5,4 @@ My passion lies in software engineering and web development, with a focus on cre
 - 📫 How to reach me: kurtcarvey.m.cadenas@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://github.com/krtcrvy/krtcrvy/blob/main/react-svgrepo-com.svg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40' style='stroke: #fff'>](https://github.com/krtcrvy/krtcrvy/blob/main/react-svgrepo-com.svg)  
