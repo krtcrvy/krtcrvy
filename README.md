@@ -1,5 +1,7 @@
 # Hi 👋, I'm Kurt Carvey Cadenas</h1>
-## Innovative Web Solutions | Impactful Business & Community Projects</h3>
+## Innovative Web Solutions | Impactful Business & Community Projects
+
+- 📫 How to reach me **kurtcarvey.m.cadenas@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurtcarvey-cadenas) 
