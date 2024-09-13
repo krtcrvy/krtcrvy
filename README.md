@@ -58,15 +58,3 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krtcrvy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krtcrvy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=krtcrvy&icon=0&color=0)](https://visitcount.itsvg.in)
