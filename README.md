@@ -50,7 +50,6 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
 
 ### Cloud and Backend Services
 
