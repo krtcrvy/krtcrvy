@@ -48,9 +48,9 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krtcrvy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=krtcrvy&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" width="469" alt="languages graph" /> 
+  <br>
+  <img src="https://streak-stats.demolab.com?user=krtcrvy&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" width="469" alt="streak graph"  />
 </div>
 
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
