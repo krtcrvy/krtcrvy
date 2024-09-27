@@ -39,4 +39,4 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Markdown](https://skillicons.dev/icons?i=md)
 
-<img src="https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
