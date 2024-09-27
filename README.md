@@ -38,5 +38,23 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Markdown](https://skillicons.dev/icons?i=md)
+![Git](https://skillicons.dev/icons?i=git)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+![Rollup](https://skillicons.dev/icons?i=rollup)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+## 📈 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krtcrvy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="469" />
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" alt="GitHub Stats" width="469" />
+
+<br/>
+
+<img align="center" src="https://streak-stats.demolab.com?user=krtcrvy&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" alt="GitHub Stats" width="469" />
 
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
