@@ -47,6 +47,6 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2)
-![GitHub Stats](https://streak-stats.demolab.com?user=krtcrvy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
+![GitHubStatsLanguages](https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2)
+![GitHubStatsStreak](https://streak-stats.demolab.com?user=krtcrvy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
