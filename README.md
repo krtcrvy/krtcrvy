@@ -2,7 +2,7 @@
 
 I'm a Software Engineer from the Philippines. I'm passionate about building web applications and solving problems with code. I'm also a tech enthusiast and I love learning new technologies.
 
-![GitHub Banner](./images/banner.png)
+![GitHub Banner](./images/linkedin_banner.png)
 
 ## 🌐 Socials
 
