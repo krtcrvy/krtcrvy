@@ -6,7 +6,7 @@ I'm a Software Engineer from the Philippines. I'm passionate about building web 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kurtcarvey-cadenas)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/kurtcarvey-cadenas)
 
 ## 💻 Tech Stack
 
