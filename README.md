@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img width="97.4%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=2&hide_border=true" alt="GitHub top-langs Card" />
+  <img width="97.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=2&hide_border=true" alt="GitHub top-langs Card" />
 </div>
 
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
