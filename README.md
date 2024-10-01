@@ -18,7 +18,9 @@
 
 <p align="center"><a href="https://github.com/krtcrvy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/kurtcarvey-cadenas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<h3 align="center">🚀 I'm a Software Engineer from the Philippines. I'm passionate about building web applications and solving problems with code. I'm also a tech enthusiast and I love learning new technologies.</h3>**
+**<h3 align="left">🚀 I've really enjoyed web development ever since I started learning Next.js. It combines the best of both SSR and SPA worlds, allowing me to build client-first web apps while still leveraging server-side rendering for better SEO on key pages.</h3>**
+
+**<h3 align="left">🔭 Right now, I'm looking for a front-end web development role, ideally working with JavaScript or TypeScript. I’m especially interested in joining a startup where I can be part of a close-knit team and make a meaningful impact quickly. If you're hiring, I’d love to chat!</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
