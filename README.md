@@ -36,11 +36,8 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <div align="center">
-  <img width="97%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
-</div>
-
-<div align="center">
-  <img width="97%" src="https://github-readme-stats.vercel.app/api?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
+  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
 </div>
 
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)
