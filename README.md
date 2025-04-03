@@ -20,12 +20,12 @@
 
 **<h3 align="left">🚀 I've really enjoyed web development ever since I started learning Next.js. It combines the best of both SSR and SPA worlds, allowing me to build client-first web apps while still leveraging server-side rendering for better SEO on key pages.</h3>**
 
-**<h3 align="left">🔭 Right now, I'm looking for a front-end web development role, ideally working with JavaScript or TypeScript. I’m especially interested in joining a startup where I can be part of a close-knit team and make a meaningful impact quickly. If you're hiring, I’d love to chat!</h3>**
+**<h3 align="left">🔭 Right now, I'm working as a front-end web developer at Nrby Inc., where I specialize in building dynamic and responsive web applications using JavaScript and TypeScript. My role focuses on creating solutions using Google Maps, developing interactive mapping features, optimizing geospatial data rendering, and ensuring a seamless user experience. I collaborate closely with designers and backend engineers to integrate location-based services effectively.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing mobile automated exam checker using Flutter and Firebase.**
-- 🌱 I'm currently learning: **📚 Exploring Flutter.**
+- 💼 I'm currently working on: **💻 Nrby Link.**
+- 🌱 I'm currently learning: **📚 Exploring Vue.js.**
 - 💬 Ask me about: **💡 JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, Laravel, and RESTful APIs**
 - 📂 Portfolio: **<a href="https://www.karbi.me/" target="_blank">https://www.karbi.me/</a>**
 
