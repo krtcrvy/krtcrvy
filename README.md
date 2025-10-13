@@ -24,7 +24,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Nrby Link.**
+- 💼 I'm currently working on: **💻 Nrby 2.0.**
 - 🌱 I'm currently learning: **📚 Exploring Vue.js.**
 - 💬 Ask me about: **💡 JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, Laravel, and RESTful APIs**
 - 📂 Portfolio: **<a href="https://www.karbi.me/" target="_blank">https://www.karbi.me/</a>**
